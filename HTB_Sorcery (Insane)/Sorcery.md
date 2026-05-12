@@ -1,6 +1,9 @@
 
 # HTB Sorcery Writeup
 
+![theme](images/theme.png)
+
+
 This writeup covers the exploitation and privilege escalation process for the Sorcery machine on Hack The Box.
 
 Skills used:
